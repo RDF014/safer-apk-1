@@ -2,6 +2,7 @@
 
 Allows users to see at a glance and give them the peace of mind that their loved ones are safe using labeled geolocation fencing.
 
+
 ## Team
 
   - Dario Artega
