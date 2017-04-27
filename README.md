@@ -45,8 +45,17 @@ Globally install these dependencies
 - [node > 7.6.0](https://nodejs.org)
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli)
 
-## Usage
+## Development
 
+### Installing Dependencies
+
+From within the root directory:
+
+```sh
+npm install
+```
+
+### Setup
 To use app, clone down the apk repo.
 If working on own dev copy of the safer-server, clone the repo [here](https://github.com/blink672/safer-server) and follow the setup instructions for the server.
 
@@ -59,7 +68,6 @@ Follow only steps 1 - 2 [here](https://github.com/devfd/react-native-google-sign
 After step 2, copy and paste the "client_id" under "oauth_client" with the "client_type" of 3 "googleAuthWebClientId" to endpoint.js
 
 Folow instructions [here](https://facebook.github.io/react-native/docs/running-on-device.html) to run the app on your device.
-
 
 ## Development
 
