@@ -29,6 +29,7 @@ Allows users to see at a glance and give them the peace of mind that their loved
 # Table of Contents
 
 1. [Requirements](#requirements)
+1. [Usage](#Usage)
 1. [Development](#development)
     1. [Setup](#setup)
     1. [Installing Dependencies](#installing-dependencies)
@@ -43,6 +44,10 @@ Globally install these dependencies
 
 - [node > 7.6.0](https://nodejs.org)
 - [react-native-cli](https://www.npmjs.com/package/react-native-cli)
+
+## Usage
+
+Follow instructions [here](https://facebook.github.io/react-native/docs/getting-started.html) 
 
 ## Development
 
