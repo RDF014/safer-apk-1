@@ -47,6 +47,9 @@ Globally install these dependencies
 
 ## Usage
 
+To use app, clone down the apk repo.
+If working on own dev copy of the safer-server, clone the repo [here](https://github.com/blink672/safer-server) and follow the setup instructions for the server.
+
 If working on local dev server, follow directions at [endpoint.example.js](app/endpoint.example.js) to setup your endpoint.
 If you want to connect to production server, set endpoint to https://safer-prod.herokuapp.com/.
 
@@ -56,8 +59,6 @@ Follow only steps 1 - 2 [here](https://github.com/devfd/react-native-google-sign
 After step 2, copy and paste the "client_id" under "oauth_client" with the "client_type" of 3 "googleAuthWebClientId" to endpoint.js
 
 Folow instructions [here](https://facebook.github.io/react-native/docs/running-on-device.html) to run the app on your device.
-
-Figure out how to setup Firebase
 
 
 ## Development
